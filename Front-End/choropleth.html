@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+<head>
+    <script type="text/javascript" src="../lib/d3.v5.min.js"></script>
+    <script type="text/javascript" src="../lib/d3-dsv.min.js"></script>
+    <script type="text/javascript" src="../lib/d3-geo-projection.v2.min.js"></script>
+    <script type="text/javascript" src="../lib/d3-legend.min.js"></script>
+    <script type="text/javascript" src="../lib/d3-tip.min.js"></script>
+    <script type="text/javascript" src="../lib/topojson.v2.min.js"></script>
+    <style>
+        
+    </style>
+    <link rel="stylesheet" href="styles.css">
+    <h1 style="text-align: center;">Map of Toxicity in Subreddits in the United States of America</h1>
+</head>
+
+<body style="background-color:rgb(213, 210, 210);">
+    <div id="container" class="svg-container"></div>
+    <h2 style = "position:absolute; left:800px; top:180px">Adjust weight for each category </h2>
+    <form style = "position:absolute; left:900px; top:240px" id="sundae">
+        <label for="field0">Identity Attack:</label></br>
+        <input type="range" min="0" max="10" value="5" class="slider" id="field0"></br>
+        <label for="field1">Insult:</label></br>
+        <input type="range" min="0" max="10" value="5" class="slider" id="field1"></br>
+        <label for="field2">Profanity:</label></br>
+        <input type="range" min="0" max="10" value="5" class="slider" id="field2"></br>
+        <label for="field3">Threat:</label></br>
+        <input type="range" min="0" max="10" value="5" class="slider" id="field3"></br>
+        <label for="field4">Sexually Explicit:</label></br>
+        <input type="range" min="0" max="10" value="5" class="slider" id="field4"></br>
+    </form>
+<!--
+    <form style = "position:absolute; left:660px; top:140px" id="happyPanda">
+        <label for="State">State:</label><br>
+        <input type="text" id="State" name="State" value="" readonly><br>
+        <label for="ID_Attack">Identity Attack:</label><br>
+        <input type="text" id="ID_Attack" name="ID_Attack" value="" readonly><br>
+        <label for="Insult">Insult:</label><br>
+        <input type="text" id="Insult" name="Insult" value="" readonly><br>
+        <label for="Profanity">Profanity:</label><br>
+        <input type="text" id="Profanity" name="Profanity" value="" readonly><br>
+        <label for="Threat">Threat:</label><br>
+        <input type="text" id="Threat" name="Threat" value="" readonly><br>
+        <label for="Sexy">Sexually Explicit:</label><br>
+        <input type="text" id="Sexy" name="Sexy" value="" readonly><br>
+    </form>
+-->
+    <div class="dropdown">
+        <h2 style="position:absolute; left:50px; top: 530px">Graph Type</h2>
+        <form style="position:absolute; left:200px; top: 550px" >
+            <select id="pickyourpoison" class="custom-dropdown">                        
+                <option value=0>National Graph</option>                    
+                <option value=1>State Comparisons</option>
+                <option value=2>Top 5s / Bottom 5s</option>
+                <option value=3>Help</option>
+            </select>
+        </form>
+    </div>
+    
+    <div id="national_graph" style="visibility: hidden;">
+        <h3 style="position:absolute; left:900px;">Select States From Dropdown to Compare Toxicity Scores </h3>
+    <select multiple id="states" style="height: 400px; position:absolute; left:1000px; top:600px" >
+    </select>
+    </div>    
+
+    <script type="text/javascript" src="./choropleth.js"></script>
+     
+</body>
+
+</html>
