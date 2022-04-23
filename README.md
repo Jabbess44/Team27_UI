@@ -18,8 +18,8 @@ To view our interactive Front-End: [Please Follow This Link](https://jabbess44.g
 <br>
 About The Team:<br>
 [Surya S. Chakraborty](https://www.linkedin.com/in/suryashekhar/)<br>
-[Jameel M. Abbess IV](https://www.linkedin.com/in/jameel-abbess-3b1950101/)
-Nicholas Denu
-Sanjeev U. Rao
-Shilpa S. Kamble
+[Jameel M. Abbess IV](https://www.linkedin.com/in/jameel-abbess-3b1950101/)<br>
+Nicholas Denu<br>
+Sanjeev U. Rao<br>
+Shilpa S. Kamble<br>
 Joshua Schroeder
