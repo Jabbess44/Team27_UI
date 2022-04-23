@@ -4,7 +4,7 @@
 For a quick and easy start-up:<br>
 <li>Clone repository to your local directory</li>
 <li>Open repository as a PyCharm Project (working as of PyCharm 2022)</li>
-<li>Follow instructions below or simply use current data by using the PyCharm feature of running the "choropleth.html" to a local browser</li>
+<li>Follow instructions below or simply use current data by using the PyCharm feature of running the "Front-End/choropleth.html" to a local browser</li>
 <br>
 <br>
 Please run DataCleaner.py in our root folder containing the output.csv from our Perspective API runs:<br>
