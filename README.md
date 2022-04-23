@@ -14,3 +14,8 @@ Please run DataCleaner.py in our root folder containing the output.csv from our 
 <br>
 <br>
 To view our interactive Front-End: [Please Follow This Link](https://jabbess44.github.io/Team27_UI/Front-End/choropleth.html)
+<br>
+<br>
+About The Team:<br>
+Surya S. Chakraborty: (https://www.linkedin.com/in/suryashekhar/)<br>
+Jameel M. Abbess IV: (https://www.linkedin.com/in/jameel-abbess-3b1950101/)
