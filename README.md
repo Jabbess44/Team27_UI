@@ -18,7 +18,7 @@ For more details, see https://ryanblunden.com/create-a-http-server-with-one-comm
 To view our interactive Front-End: [Please Follow This Link](https://jabbess44.github.io/Team27_UI/Front-End/choropleth.html)
 <br>
 <br>
-To view our poster: [Please Follow This Link](https://jabbess44.github.io/Team27_UI/DVA%20Project%20Poster.pdf)
+To view our poster: [Please Follow This Link](https://jabbess44.github.io/Team27_UI/DVAProjectPoster.pdf)
 <br>
 <br>
 About The Team:<br>
