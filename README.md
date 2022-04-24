@@ -2,7 +2,7 @@
 
 
 For a quick and easy start-up:<br>
-<li>Clone repository to your local directory</li>
+<li>Clone [repository](https://github.com/Jabbess44/Team27_UI) to your local directory</li>
 <li>Open repository as a PyCharm Project (working as of PyCharm 2022)</li>
 <li>Follow instructions below or simply use current data by using the PyCharm feature of running the "Front-End/choropleth.html" to a local browser</li>
 <br>
