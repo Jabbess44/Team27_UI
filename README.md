@@ -1,7 +1,7 @@
 # DVA Project: Reddit analysis
 
 
-For a quick and easy start-up:<br>
+For a quick and easy start-up:<br><br>
 Clone [This Repository](https://github.com/suryashekharc/dva_project) to a local repository
 <li>Follow instructions below or simply use current data by using the PyCharm feature of running the "Front-End/choropleth.html" to a local browser</li>
 <br>
