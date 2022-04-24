@@ -2,7 +2,7 @@
 
 
 For a quick and easy start-up:<br>
-<li>Clone [this repository](https://github.com/suryashekharc/dva_project)</li>
+<li>Clone [this repository] (https://github.com/suryashekharc/dva_project)</li>
 <li>Follow instructions below or simply use current data by using the PyCharm feature of running the "Front-End/choropleth.html" to a local browser</li>
 <br>
 <br>
@@ -15,7 +15,7 @@ For more details, see [this link](https://ryanblunden.com/create-a-http-server-w
 <li>Voila!</li>
 <br>
 <br>
-To view our interactive Front-End: [Please Follow This Link](https://jabbess44.github.io/Team27_UI/Front-End/choropleth.html)
+To view our interactive Front-End: [Please Follow This Link] (https://jabbess44.github.io/Team27_UI/Front-End/choropleth.html)
 <br>
 <br>
 About The Team:<br>
