@@ -19,7 +19,7 @@ To view our interactive Front-End: [Please Follow This Link](https://jabbess44.g
 About The Team:<br>
 [Surya S. Chakraborty](https://www.linkedin.com/in/suryashekhar/)<br>
 [Jameel M. Abbess IV](https://www.linkedin.com/in/jameel-abbess-3b1950101/)<br>
-Nicholas Denu<br>
-Sanjeev U. Rao<br>
-Shilpa S. Kamble<br>
-Joshua Schroeder
+[Nicholas Denu](https://www.linkedin.com/in/nicholas-denu-0b9278108/)<br>
+[Sanjeev U. Rao](https://www.linkedin.com/in/sanjeevurao/)<br>
+[Shilpa S. Kamble](https://www.linkedin.com/in/shilpakamble22/)<br>
+[Joshua Schroeder](https://www.linkedin.com/in/joshua-schroeder-182446102/)
